@@ -1,0 +1,216 @@
+body{
+    background: url(../img/r3t34t.jpg);
+    background-repeat: no-repeat;
+    background-size: 1530px 800px;
+    background-attachment: fixed;
+}
+footer{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    top: 5rem;
+}
+#p2{
+    font-size: medium;
+    position: relative;
+    top: 1.5rem;
+}
+#n1{
+    text-decoration: none;
+    color: white;
+}
+#n1:hover{
+    color: orange;
+    transition: all ease 0.4s;
+}
+header{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.658);
+}
+#li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: white;
+    display: flex;
+    padding-left: 30rem;
+    padding-top: 1.5rem;
+    list-style-type: none;
+}
+#li li{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    text-decoration: none;
+}
+.logo{
+    padding-left: 8rem;
+    padding-top: 1rem;
+}
+.logo img{
+    margin-bottom: 1.5rem;
+}
+#p11{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5rem;
+    color: white;
+    padding-left: 8rem;
+    font-weight: bold;
+}
+.page{
+    background-color: rgba(193, 193, 193, 0.782);
+}
+#img2{
+    padding-left: 42rem;
+}
+#p3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    color: black;
+    text-align: center;
+}
+#para{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    font-size:  larger;
+}
+.newsletter{
+    background-color: rgba(0, 0, 0, 0.627);
+    display: inline-block;
+    position: relative;
+    top: 7rem;
+    padding-right: 13.5rem;
+    height: 30rem;
+}
+#p1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    position: relative;
+    top: 5rem;
+    padding-left: 8rem;
+}
+#lg2{
+    position: relative;
+    top: 5rem;
+    padding-left: 8rem;
+}
+#f1{
+    position:relative;
+    padding-left: 42rem;
+    bottom: 4rem;
+}
+#l1{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#l4{
+    font-size: 1.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+#box{
+    height: 5rem;
+    width: 15rem;
+}
+#l2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#l3{
+    width: 15rem;
+}
+#b1{
+    width: 5rem;
+    height: 2rem;
+    color: white;
+    background-color: rgba(222, 0, 0, 0.61);
+}
+.links{
+    position: relative;
+    padding-left: 8rem;
+    top: 5rem;
+}
+.b1{
+    position: relative;
+    top: 5rem;
+    padding-left: 5rem;
+}
+#lxi{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+#lx{
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+}
+.content{
+    position: relative;
+    bottom: 19rem;
+    padding-left: 71rem;
+}
+#hh{
+    position: relative;
+    top: 20rem;
+}
+#n1{
+    text-decoration: none;
+    color: white;
+}
+#n1:hover{
+    color: orange;
+    transition: all ease 0.4s;
+}
+.form1{
+    background-color: rgba(0, 0, 0, 0.492);
+    position: relative;
+    padding-left: 35rem;
+    height: 30rem;
+}
+.form1 form{
+    position: relative;
+    top: 4.25rem;
+    
+}
+#para1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    color: white;
+    font-weight: bolder;
+}
+#para2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 1.5rem;
+    color: white;
+    position: relative;
+    top: -5rem;
+}
+.top{
+    padding-left: 9rem;
+}
+#fi1{
+    width: 25rem;
+    height: 1.7rem;
+}
+#btn1{
+    width: 10rem;
+    height: 3rem;
+    background-color: green;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+#btn1:hover{
+    background-color: greenyellow;
+    color: black;
+    transition: all ease 0.3s;
+}

@@ -1,0 +1,75 @@
+<doctype html>
+    <head>
+        <title>Foodie | Reservations</title>
+        <link rel="stylesheet" type="text/css" href="../css/reser.css">
+    </head>
+    <body>
+         <header>
+            <div class="logo">
+                <img src="../img/foodie.png" width="140px" height="70px">
+            </div>
+            <div class="nav">
+              <ul id="li">
+                  <li><a href="home.html" id="n1">Home</a></li>
+                  <li><a href="Menu.html" id="n1">Menu</a></li>
+                  <li><a href="About.html" id="n1">About us</a></li>
+                  <li><a href="reservations.html" id="n1">Reservations</a></li>
+              </ul>
+          </div>
+         </header>
+         <p id="p11">Reservations</p> 
+         <div class="top">
+          <p id="para2">Reserve a section in our restuarent n make your moments greater</p>
+         </div>
+         <div class="form1">
+          <form method="post" action="../php/reserve.php">
+            <label for="name" id="l1">Name</label><br>
+            <input type="text" placeholder="Type here" name="name" id="fi1"><br><br>
+            <label for="cont" id="l1">Contact No</label><br>
+            <input type="text" placeholder="Type here" name="Contact" id="fi1"><br><br>
+            <label for="date" id="l1">Event Date</label><br>
+            <input type="date" placeholder="Type here" name="date" id="fi1"><br><br>
+            <label for="par" id="l1">No. of Participants</label><br>
+            <input type="number" placeholder="Type here" name="par" id="fi1"><br><br><br>
+            <input type="submit" value="Reserve a Section" id="btn1">
+          </form>
+         </div>
+            
+                        <div class="newsletter">
+                            <div class="b1">
+                              <img src="../img/foodie.png" width="140px" height="70px" id="lg2">
+                            <p id="p1">Visit - 23, JV Plaza, NY<br>Email - foodierest23@gmail.com<br>Phone - 56 444 876 
+                            <br>
+                            <p id="p1">Follow us on</p>
+                            <div class="links">
+                              <img src="../img/fb.png" width="30px" height="30px">
+                              <img src="../img/ins.png" width="30px" height="30px">
+                              <img src="../img/twt.png" width="30px" height="30px">
+                            </div>
+                            </div>
+                              <form id="f1" method="post" action="../php/contact.php">
+                                <label id="l4">Contact us</label>
+                                <br><br>
+                                <label for="email2" id="l2">Email</label>
+                                <br><input type="email" name="email2" id="l3"><br><br>
+                                <label for="comment" id="l2">Message</label>
+                                <br><input id="box" type="text" name="comment"><br><br>
+                                <input type="submit" value="Send" id="b1">
+                              </form>
+                              <div class="content">
+                                <label id="lxi">Content</label>
+                                <ul id="lx">
+                                  <li><a href="home.html" id="n1">Home</a></li>
+                                  <li><a href="About.html" id="n1">About Us</a></li>
+                                  <li><a href="Menu.html" id="n1">Menu</a></li>
+                                  <li><a href="Reservations.html" id="n1">Reservations</a></li>
+                                </ul>
+                              </div>
+                          </div>
+                          </p>
+        <footer>
+         <p id="p2">© 2020 Foodie | Web Design & Development by BeexS</p>
+         <br>
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,198 @@
+body{
+    background: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px 950px;
+    background-attachment: fixed;
+}
+html{
+    scroll-behavior: smooth;
+}
+.nav1{
+    position: relative; 
+    padding-left: 19rem;
+}
+.main{
+    margin-top: 8rem;
+}
+.nav1 ul{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: large;   
+}
+.nav1 ul li{
+    display: inline-block;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    text-decoration: none;
+    padding-top: 4rem;
+}
+.logo{
+    position: relative;
+    padding-left: 36rem;
+}
+#txt2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
+.sub{
+    position: relative;
+    top: 10rem;
+    padding-left: 10rem;
+}
+#txt3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(164, 0, 115);
+    font-size: 3rem;
+    font-weight: bolder;
+}
+#txt4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(69, 69, 69);
+    font-size: 2rem;
+}
+.img1{
+    position: relative;
+    padding-left: 61.5rem;
+    bottom: 12rem;
+}
+.back{
+    background-color: white;
+}
+.menu{
+    position: relative;
+    top: 2rem;
+}
+#i3{
+    position: relative;
+    
+}
+footer{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    background-color: rgb(0, 0, 0);
+    position: sticky;
+}
+#p2{
+    font-size: medium;
+    position: relative;
+    top: 1.5rem;
+}
+.newsletter{
+    background-color: rgba(0, 0, 0, 0.627);
+    display: inline-block;
+    position: relative;
+    top: 10rem;
+    padding-right: 13.5rem;
+    height: 30rem;
+}
+#p1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    position: relative;
+    top: 5rem;
+    padding-left: 8rem;
+}
+#lg2{
+    position: relative;
+    top: 5rem;
+    padding-left: 8rem;
+}
+#f1{
+    position:relative;
+    padding-left: 42rem;
+    bottom: 4rem;
+}
+#l1{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#l4{
+    font-size: 1.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+#box{
+    height: 5rem;
+    width: 15rem;
+}
+#l2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#l3{
+    width: 15rem;
+}
+#b1{
+    width: 5rem;
+    height: 2rem;
+    color: white;
+    background-color: rgba(222, 0, 0, 0.61);
+}
+.links{
+    position: relative;
+    padding-left: 8rem;
+    top: 5rem;
+}
+.b1{
+    position: relative;
+    top: 5rem;
+    padding-left: 5rem;
+}
+#lxi{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+#lx{
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+}
+.content{
+    position: relative;
+    bottom: 19rem;
+    padding-left: 71rem;
+}
+  #btn1{
+    background-color: rgba(128, 128, 128, 0.933);
+  }
+  .sub2{
+    position: relative;
+    bottom: 20rem;
+    margin-left: 40rem;
+  }
+  #btn{
+    margin-left: 43rem;
+    background-color: rgba(255, 251, 40, 0.489);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    width: 8rem;
+    height: 4rem;
+  }
+  #btn:hover{
+    transition: all ease 0.4s;
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+  }
+  #btn a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+  #n1{
+    text-decoration: none;
+    color: white;
+}
+#n1:hover{
+    color: orange;
+    transition: all ease 0.4s;
+}

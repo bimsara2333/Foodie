@@ -1,0 +1,56 @@
+body{
+    background-image: url(../img/bck2.jpg);
+    background-size: 1530px 1000px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.form1{
+    background-color: rgba(0, 0, 0, 0.526);
+    position: relative;
+    margin-left: 55rem;
+    padding-top: 10rem; 
+}
+.enter{
+    margin-left: 5rem;
+}
+#t1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: white;
+}
+#t2{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+#tb1{
+    height: 2rem;
+    width: 26rem;
+}
+#btn1{
+    background-color: green;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    width: 10rem;
+    height: 3rem;
+}
+#link1{
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+#p1{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btn1:hover{
+    transition: all ease 0.2s;
+    background-color: rgb(186, 255, 83);
+    color: black;
+}
+.logo{
+    margin-left: 15rem;
+}
